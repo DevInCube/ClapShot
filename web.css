@@ -5,6 +5,8 @@ body {
 
 header {
 	background : #3B698F;
+	padding-left: 20px;
+	overflow: hidden;
 }
 
 header > h1 {
@@ -12,7 +14,7 @@ header > h1 {
 	margin-bottom : 10px;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	font-size : 32px;
-	text-align: left;
+	float: left;
 	color: white;
 	background-color: transparent;
 }
