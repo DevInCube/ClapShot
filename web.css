@@ -34,12 +34,16 @@ header > h1 {
 }
 
 .gallery_preview > ul > li {
-	float: right;
+	float: left;
 	width: 64px;
 	height: 100%;
 	background: lightsteelblue;
 	border-radius: 3;
 	margin: 3px;
+}
+
+.gallery_preview > ul > li: hover {
+	border : 2px solid white;
 }
 
 .centered-blocks {
