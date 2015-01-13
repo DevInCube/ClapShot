@@ -35,7 +35,6 @@ header > h1 {
 	margin: 10px auto;
 	background : white;
 	position: relative;
-	margin-top: 1%;
 }
 
 .gallery_preview {
@@ -96,6 +95,7 @@ header > h1 {
 	max-width: 97%;
 	height: 99%;
 	background: black;
+	margin-top: 1%;
 }
 
 #canvas {
