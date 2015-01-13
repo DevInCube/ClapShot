@@ -32,7 +32,7 @@ header > h1 {
 	width : 100vmin;
 	max-width: 97%;
 	height: 99%;
-	max-height: 90vh;
+	max-height: 80vh;
 	margin: 2% auto;
 	background : white;
 	position: relative;
@@ -47,7 +47,6 @@ header > h1 {
 .gallery_preview > ul {
 	list-style: none;
 	padding : 0px;
-	margin: 0px 10px;
 	height : 100%;
 	width: 100%;
 	overflow: auto;
@@ -95,6 +94,7 @@ header > h1 {
 	width : 100vmin;
 	max-width: 97%;
 	height: 99%;
+	max-height: 97%;
 	background: black;
 	margin-top: 1%;
 }
