@@ -23,7 +23,7 @@ header > h1 {
 	background-color: transparent;
 }
 
-.video-con {
+#video-con {
 	width : 95%;
 	height : 80%;
 	border : 5px solid white;
