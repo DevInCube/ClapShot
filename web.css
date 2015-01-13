@@ -30,9 +30,9 @@ header > h1 {
 
 #video-con {
 	width : 100vmin;
-	max-width: 99%;
+	max-width: 97%;
 	height: 99%;
-	margin: 10px auto;
+	margin: 2% auto;
 	background : white;
 	position: relative;
 }
