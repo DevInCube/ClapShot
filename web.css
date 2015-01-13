@@ -19,6 +19,23 @@ header > h1 {
 	background-color: transparent;
 }
 
+.gallery_preview {
+	float: right;
+}
+
+.gallery_preview > ul {
+	list-style: none;
+	padding : 0px;
+}
+
+.gallery_preview > ul > li {
+	float: right;
+	clear: both;
+	background: lightsteelblue;
+	border-radius: 5;
+	margin: 2px;
+}
+
 .centered-blocks {
 	text-align: center;
 }
