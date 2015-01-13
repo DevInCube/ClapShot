@@ -32,6 +32,7 @@ header > h1 {
 	width : 100vmin;
 	max-width: 97%;
 	height: 99%;
+	max-height: 90vh;
 	margin: 2% auto;
 	background : white;
 	position: relative;
