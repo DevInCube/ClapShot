@@ -25,9 +25,7 @@ header > h1 {
 	background-color: transparent;
 }
 
-main {
-	position: static;
-	padding-top: 64px;
+.main {
 	overflow: hidden;
 	height: 100vh;
 }
