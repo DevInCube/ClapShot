@@ -35,7 +35,7 @@ header > h1 {
 .gallery_preview {
 	height: 64px;
 	overflow: hidden;
-	margin: 3px;
+	margin: 5px 0px;
 }
 
 .gallery_preview > ul {
