@@ -25,7 +25,10 @@ header > h1 {
 }
 
 main {
-	height : 75vh;
+	position: static;
+	padding-top: 64px;
+	overflow: hidden;
+	height: 100vh;
 }
 
 #video-con {
