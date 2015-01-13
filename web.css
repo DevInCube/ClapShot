@@ -68,14 +68,18 @@ header > h1 {
 	text-align: center;
 }
 
+.control {
+	position: absolute; 
+	top: 10px;
+	left: 10px;
+}
+
 #soundLvl {
 	width: 100px;
 	height: 100px;
 	border-radius : 50px;
 	background-color: white;
 	opacity: 0.5;
-	position: absolute; 
-	bottom: 10px;
 }
 
 #video {
