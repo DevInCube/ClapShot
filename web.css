@@ -26,6 +26,7 @@ header > h1 {
 
 #video-con {
 	width : 95%;
+	margin: 0 auto;
 	height : 80%;
 	border : 5px solid white;
 	background : #3B698F;
