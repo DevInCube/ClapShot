@@ -36,6 +36,7 @@ header > h1 {
 	border : 5px solid white;
 	background : white;
 	position: relative;
+	margin-top: 1%;
 }
 
 .gallery_preview {
@@ -93,7 +94,7 @@ header > h1 {
 
 #video {
 	width : 100vmin;
-	max-width: 99%;
+	max-width: 97%;
 	height: 99%;
 	background: black;
 }
