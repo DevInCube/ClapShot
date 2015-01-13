@@ -23,7 +23,7 @@ header > h1 {
 	float: right;
 	width: 50%;
 	height: 64px;
-	overflow: auto;
+	overflow: hidden;
 }
 
 .gallery_preview > ul {
