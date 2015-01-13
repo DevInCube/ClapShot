@@ -41,7 +41,7 @@ header > h1 {
 .gallery_preview {
 	height: 100%;
 	overflow: hidden;
-	margin: 5px 0px;
+	margin: 10px 0px;
 }
 
 .gallery_preview > ul {
