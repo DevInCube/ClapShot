@@ -46,14 +46,17 @@ header > h1 {
 	list-style: none;
 	padding : 0px;
 	margin: 0px 10px;
-	width: 100%;
 	height : 100%;
+	width: 100%;
+    overflow: auto;
+    white-space: nowrap;
 }
 
 .gallery_preview > ul > li {
+	display: inline-block
 	float: left;
 	width: 64px;
-	height: 100%;
+	height: 64px;
 	background: lightsteelblue;
 	border-radius: 3;
 	margin: 3px;
