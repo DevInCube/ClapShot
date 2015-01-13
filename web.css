@@ -33,6 +33,7 @@ header > h1 {
 	margin: 10px auto;
 	border : 5px solid white;
 	background : #3B698F;
+	position: relative;
 }
 
 .gallery_preview {
@@ -82,7 +83,7 @@ header > h1 {
 }
 
 #canvas {
-	position: relative; 
+	position: absolute; 
 	bottom: 100px;
 }
 
