@@ -27,6 +27,7 @@ header > h1 {
 .gallery_preview > ul {
 	list-style: none;
 	padding : 0px;
+	height : 100%;
 }
 
 .gallery_preview > ul > li {
