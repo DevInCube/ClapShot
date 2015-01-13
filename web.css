@@ -30,10 +30,11 @@ header > h1 {
 
 #video-con {
 	width : 100vmin;
-	max-width: 95%;
+	max-width: 99%;
+	height: 99%;
 	margin: 10px auto;
 	border : 5px solid white;
-	background : #3B698F;
+	background : white;
 	position: relative;
 }
 
@@ -92,7 +93,8 @@ header > h1 {
 
 #video {
 	width : 100vmin;
-	max-width: 95%;
+	max-width: 99%;
+	height: 99%;
 	background: black;
 }
 
