@@ -1,18 +1,25 @@
 body {
 	background-color : steelblue;
 }
+
+header {
+	background : #3B698F;
+}
+
 header > h1 {
 	margin-top : 10px;
 	margin-bottom : 10px;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	font-size : 32px;
-	text-align: center;
+	text-align: left;
 	color: white;
 	background-color: transparent;
 }
+
 .centered-blocks {
 	text-align: center;
 }
+
 #soundLvl {
 	width: 100px;
 	height: 100px;
@@ -21,6 +28,10 @@ header > h1 {
 	opacity: 0.5;
 	position: relative; 
 	bottom: 120px;
+}
+
+#video {
+	width : 95%;
 }
 
 #canvas {
