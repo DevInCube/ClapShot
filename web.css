@@ -41,7 +41,6 @@ header > h1 {
 .gallery_preview {
 	height: 100%;
 	overflow: hidden;
-	margin: 10px 0px;
 }
 
 .gallery_preview > ul {
@@ -51,6 +50,7 @@ header > h1 {
 	width: 100%;
 	overflow: auto;
 	white-space: nowrap;
+	margin: 5px 0px 0px 0px;
 }
 
 .gallery_preview > ul > li {
