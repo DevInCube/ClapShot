@@ -1,2 +1,69 @@
-<!DOCTYPE html>
-<h1>Hello, GIT!</h1>
+<!doctype html>
+<html>
+  <head>
+	<meta charset="UTF-8">	
+	<!--<meta name="viewport" content="width=device-width, initial-scale=1" />-->
+    <title>ClapShot</title>
+	<style>
+		body {
+			background-color : steelblue;
+		}
+		header > h1 {
+			margin-top : 10px;
+			margin-bottom : 10px;
+			font-family: "Comic Sans MS", cursive, sans-serif;
+			font-size : 32px;
+			text-align: center;
+			color: white;
+			background-color: transparent;
+		}
+		.centered-blocks {
+			text-align: center;
+		}
+
+		#soundLvl {
+			width: 100px;
+			height: 100px;
+			border-radius : 50px;
+			background-color: white;
+			opacity: 0.5;
+			position: relative; 
+			bottom: 120px;
+		}
+		
+		#canvas {
+			position: relative; 
+			bottom: 100px;
+		}
+		
+		#video, #canvas {
+			transform: rotateY(180deg);
+			-webkit-transform:rotateY(180deg); /* Safari and Chrome */
+			-moz-transform:rotateY(180deg); /* Firefox */
+		}
+	</style>
+  </head>
+  <body>
+	<header>
+		<h1>ClapShot</h1>
+	</header>
+	<main>
+		<div class="centered-blocks">
+			<div id='video-con'>
+				<video id="video" autoplay="autoplay"></video><br/>
+				<canvas id="soundLvl"></canvas>
+			</div><br/>
+			<canvas id="canvas" ></canvas><br/>
+			<a id="download" download="photo.png">Save Image</a><br/>
+			<button id="startbutton">Take photo</button>
+		</div>
+	</main>
+	<footer>
+			
+	</footer>
+	<script src="app.js"></script>
+	<script type="text/javascript">
+
+	</script>
+  </body>
+</html>
