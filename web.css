@@ -23,6 +23,11 @@ header > h1 {
 	background-color: transparent;
 }
 
+.video-con {
+	border : 5px solid white;
+	background : #3B698F;
+}
+
 .gallery_preview {
 	height: 64px;
 	overflow: hidden;
