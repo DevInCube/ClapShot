@@ -75,8 +75,7 @@ header > h1 {
 	background-color: white;
 	opacity: 0.5;
 	position: absolute; 
-	top: 0px;
-	left: 0px;
+	bottom: 10px;
 }
 
 #video {
