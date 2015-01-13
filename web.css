@@ -78,8 +78,8 @@ header > h1 {
 
 .control {
 	position: absolute; 
-	top: 5vmax;
-	left: 5vmax;
+	top: 2vmax;
+	left: 2vmax;
 }
 
 #soundLvl {
