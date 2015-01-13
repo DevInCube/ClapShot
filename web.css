@@ -78,14 +78,14 @@ header > h1 {
 
 .control {
 	position: absolute; 
-	top: 10px;
-	left: 10px;
+	top: 5vmax;
+	left: 5vmax;
 }
 
 #soundLvl {
-	width: 100px;
-	height: 100px;
-	border-radius : 50px;
+	width: 10vmax;
+	height: 10vmax;
+	border-radius : 50%;
 	background-color: white;
 	opacity: 0.5;
 }
