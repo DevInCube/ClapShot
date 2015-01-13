@@ -24,6 +24,10 @@ header > h1 {
 	background-color: transparent;
 }
 
+main {
+	height : 75vh;
+}
+
 #video-con {
 	width : 95%;
 	margin: 10px auto;
