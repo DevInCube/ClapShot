@@ -20,9 +20,9 @@ header > h1 {
 }
 
 .gallery_preview {
-	width: 50%;
 	height: 64px;
 	overflow: hidden;
+	margin: 3px;
 }
 
 .gallery_preview > ul {
