@@ -55,9 +55,7 @@ header > h1 {
 
 .gallery_preview > ul > li {
 	display: inline-block;
-	float: left;
 	width: 64px;
-	height: 64px;
 	background: lightsteelblue;
 	border-radius: 3px;
 	margin: 3px;
