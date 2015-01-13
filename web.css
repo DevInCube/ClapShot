@@ -52,7 +52,7 @@ header > h1 {
 	border : 2px solid transparent;
 }
 
-.gallery_preview > ul > li: hover {
+.gallery_preview > ul > li:hover {
 	border : 2px solid white;
 }
 
